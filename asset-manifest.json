@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Collegeduni-Task/static/css/main.290b3fff.chunk.css",
+    "main.js": "/Collegeduni-Task/static/js/main.9253f82f.chunk.js",
+    "main.js.map": "/Collegeduni-Task/static/js/main.9253f82f.chunk.js.map",
+    "runtime-main.js": "/Collegeduni-Task/static/js/runtime-main.adde99f9.js",
+    "runtime-main.js.map": "/Collegeduni-Task/static/js/runtime-main.adde99f9.js.map",
+    "static/js/2.7b8ed448.chunk.js": "/Collegeduni-Task/static/js/2.7b8ed448.chunk.js",
+    "static/js/2.7b8ed448.chunk.js.map": "/Collegeduni-Task/static/js/2.7b8ed448.chunk.js.map",
+    "index.html": "/Collegeduni-Task/index.html",
+    "precache-manifest.c76bd103df6e01205b15b7ef5684de9c.js": "/Collegeduni-Task/precache-manifest.c76bd103df6e01205b15b7ef5684de9c.js",
+    "service-worker.js": "/Collegeduni-Task/service-worker.js",
+    "static/css/main.290b3fff.chunk.css.map": "/Collegeduni-Task/static/css/main.290b3fff.chunk.css.map",
+    "static/js/2.7b8ed448.chunk.js.LICENSE.txt": "/Collegeduni-Task/static/js/2.7b8ed448.chunk.js.LICENSE.txt",
+    "static/media/college_02.jpg": "/Collegeduni-Task/static/media/college_02.619ee97e.jpg",
+    "static/media/tag11.png": "/Collegeduni-Task/static/media/tag11.0a9d1305.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adde99f9.js",
+    "static/js/2.7b8ed448.chunk.js",
+    "static/css/main.290b3fff.chunk.css",
+    "static/js/main.9253f82f.chunk.js"
+  ]
+}
